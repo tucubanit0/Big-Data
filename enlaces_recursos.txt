@@ -1,0 +1,21 @@
+Curso Python. Expresiones regulares I. Vídeo 69     	https://youtu.be/qpwn3gRtxCo?si=qDDZpfxgpzZ6nKww
+Python Crash Course       https://github.com/Koladiyahardik/Python/blob/main/Python%20Crash%20Course%20(3rd%20Edition).pdf
+Python for Data Analysis      https://wesmckinney.com/book/
+Kaggle Datasets  https://www.kaggle.com/datasets
+
+
+
+
+Videos
+Page Rank  (algoritmo) -> https://youtu.be/b3fwA3EWCd8?si=EHNayQ2espKBlM81
+Grafos  --> https://youtu.be/HYGd2UMRb-o?si=UBEDRIFKKTXhpFYm
+
+
+
+https://es.educaplay.com/recursos-educativos/22541854-tipos_de_datos_y_adquisicion_de_datos_en_python.html
+https://classroom.google.com/c/Njg4NjAzMTkwOTQ2?cjc=w5ozmxq
+
+
+https://kahoot.it/challenge/05673108?challenge-id=1205872a-5551-4c93-96b3-0c5a31b9b59e_1740748628561
+
+https://matplotlib.org/cheatsheets/
