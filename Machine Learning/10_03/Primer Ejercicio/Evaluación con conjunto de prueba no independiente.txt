@@ -1,0 +1,14 @@
+Evaluación con conjunto de prueba no independiente
+Accuracy: 0.8042328042328042
+Matriz de confusión:
+ [[103  15]
+ [ 22  49]]
+Reporte de clasificación:
+               precision    recall  f1-score   support
+
+           0       0.82      0.87      0.85       118
+           1       0.77      0.69      0.73        71
+
+    accuracy                           0.80       189
+   macro avg       0.79      0.78      0.79       189
+weighted avg       0.80      0.80      0.80       189
